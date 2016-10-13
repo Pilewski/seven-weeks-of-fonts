@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rcwestlake/seven-weeks-fonts.git"
+    "url": "git+https://github.com/Pilewski/seven-weeks-fonts.git"
   },
-  "author": "Ryan C Westlake / OutwardUp",
+  "author": "Alex Pilewski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rcwestlake/seven-weeks-fonts/issues"
+    "url": "https://github.com/Pilewski/seven-weeks-fonts"
   },
-  "homepage": "https://github.com/rcwestlake/seven-weeks-fonts#readme",
+  "homepage": "https://github.com/Pilewski/seven-weeks-fonts#readme",
   "dependencies": {
     "jquery": "^3.1.1"
   },
